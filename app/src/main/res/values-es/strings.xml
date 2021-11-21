@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DM_Cortinas</string>
+    <string name="text_username">Usuario</string>
+    <string name="hind_username">Usuario@dominio.com</string>
+    <string name="text_Password">Contraseña</string>
+    <string name="hind_Password">ABC</string>
+    <string name="button_Login">INICIAR SESION </string>
+    <string name="button_Create_account">CREAR CUENTA</string>
+
+</resources>

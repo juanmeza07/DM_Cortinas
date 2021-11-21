@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DM_Cortinas</string>
+    <string name="text_username">Username</string>
+    <string name="hind_username">User@domain.com</string>
+    <string name="text_Password">Password</string>
+    <string name="hind_Password">ABC</string>
+    <string name="button_Login">LOGIN</string>
+    <string name="button_Create_account">Create Account</string>
+
+</resources>
